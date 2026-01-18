@@ -3,7 +3,7 @@ Task 1 CTF Writeup
 Setup and Tools
 
 I did this task using Ubuntu on WSL since I’m on Windows as I did not have enough time to install a VM
-(screenshots are attached at the end in an orderly manner)
+
 
 I mainly used basic Linux commands, Base64 decoding, image analysis tools, steganography tools, QR decoding tools, and Python for handling extracted data.
 
@@ -50,6 +50,8 @@ Final Flag
 After combining all three parts and fixing the formatting, the final flag was:
 Gdg{wait_what_if_there_are_disguised_filflags_in_the_data_10:armykn1f3_gg1ol}
 
+
+the google doc link in case needed: https://docs.google.com/document/d/1EWICKHxHvHR-a4xnFXDG70cjryPHyY2vQC2CUqV-EWY/edit?usp=sharing
 
 
 
